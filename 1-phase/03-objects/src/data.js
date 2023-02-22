@@ -3,6 +3,13 @@ const bookStore = {
 	address: "333 st ne Seattle wa 99999",
 	number: 9999999999,
 	name: "Coding Books",
+	"YTD 2022 BADTIME" : "askjfhgasjlf",
+	"cool Func": () => {
+		console.log("coolio")
+	},
+	otherFunc: function () {
+		console.log("idk,m bruh")
+	},
 	hours: "Monday - Friday 9am - 6pm",
 	inventory: [
 		{
@@ -100,3 +107,5 @@ const bookStore = {
 		},
 	],
 }
+
+module.exports = { bookStore }
