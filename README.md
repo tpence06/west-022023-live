@@ -49,7 +49,7 @@ Now that you have the repository cloned to your local machine, you'll be able to
 ## Before Every Subsequent Lecture
 
 1. Click on the Fetch & Merge button on your fork of the repository on GitHub.
-2. Run `git pull` from within the attached terminal of your local copy of the repository in VS Code.
+2. Run `git pull learn main` from within the attached terminal of your local copy of the repository in VS Code.
 
 ![Fetch and Merge Into Git Pull](assets/fetch-and-merge-into-git-pull.gif)
 
