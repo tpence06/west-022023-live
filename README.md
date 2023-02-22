@@ -42,6 +42,10 @@ To do this there are a two main tasks we'll want to complete.
 
 Now that you have the repository cloned to your local machine, you'll be able to following along with lecture inside of your own code editor if you wish.
 
+```shell
+  git remote add learn git@github.com:rothberry/west-022023-live.git
+```
+
 ## Before Every Subsequent Lecture
 
 1. Click on the Fetch & Merge button on your fork of the repository on GitHub.
