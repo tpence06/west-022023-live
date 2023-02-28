@@ -17,4 +17,8 @@
         4.
         5.
 
+    3. What does the 'fetch' return?
+        
+
 */
+
