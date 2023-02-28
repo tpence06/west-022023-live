@@ -98,6 +98,30 @@
       "inventory": "11",
       "reviews": [],
       "id": 8
+    },
+    {
+      "title": "asfkahgf",
+      "author": "asfaf",
+      "price": 124,
+      "imageUrl": "https://images.unsplash.com/photo-1496154704336-6c88a94a019a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29vbCUyMGJvb2tzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "inventory": 14,
+      "id": 9
+    },
+    {
+      "title": "asfasfa",
+      "author": "asfaf",
+      "price": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1454793147212-9e7e57e89a4f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=664",
+      "inventory": 124,
+      "id": 10
+    },
+    {
+      "title": "asf",
+      "author": "asf",
+      "price": 145,
+      "imageUrl": "asf",
+      "inventory": null,
+      "id": 11
     }
   ]
 }
